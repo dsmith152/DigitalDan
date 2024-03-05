@@ -13,7 +13,7 @@ Nominations: Pulitzer Prize for General Nonfiction, MORE
 Education: Princeton University
 
 
-
+![pic of author](https://dsmith152.github.io/DigitalDan/assets/Author.jpg)
 ![pic of author](http://localhost:4000/DigitalDan/assets/Author.jpg)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
